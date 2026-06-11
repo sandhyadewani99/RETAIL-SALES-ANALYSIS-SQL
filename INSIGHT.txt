@@ -1,0 +1,17 @@
+INSIGHT
+
+1. Clothing category generated a significant share of transactions, indicating strong customer demand in the apparel segment.
+
+2. Beauty category customers showed a distinct age pattern, helping identify the primary target audience for beauty products.
+
+3. Several high-value transactions exceeded ?1000, contributing substantially to overall revenue.
+
+4. Sales performance varied across categories, with certain product categories generating higher total sales than others.
+
+5. Customer purchasing behavior differed by gender, highlighting opportunities for category-specific marketing strategies.
+
+6. A small group of customers contributed a large portion of total sales, demonstrating the importance of high-value customers.
+
+7. Monthly sales trends revealed seasonal fluctuations, with specific months achieving the highest average sales performance.
+
+8. Order volume varied throughout the day, with particular shifts (Morning, Afternoon, or Evening) recording higher transaction activity than others.
